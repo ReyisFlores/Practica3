@@ -1,0 +1,31 @@
+.contenedor a{ /*selector combinado*/
+    text-decoration:none; /*elimina el subrayado*/
+    color:pink; /*agrega color a la fuente*/
+    font-size: 20px; /*define el tamaño de la fuente*/
+    font-weight: bold; /*define el grosor de la fuente*/
+}
+
+h2{
+    color:gold; /*agrega color a la fuente*/
+}
+
+p{
+    font-size: 18px; /*define el tamaño de la fuente*/
+}
+
+h3{
+    color:lightgreen; /*agrega color a la fuente*/
+    text-align: center; /*define la alineación horizontal del texto*/
+}
+
+.contenedor2 p{
+    color: chocolate; /*agrega color a la fuente*/
+}
+
+.contenedor2 a{
+    color:palevioletred ; /*agrega color a la fuente*/
+    text-decoration: none; /*elimina el subrayado*/
+    font-size: 20px; /*define el tamaño de la fuente*/
+    font-weight: bold; /*define el grosor de la fuente*/
+}
+    
